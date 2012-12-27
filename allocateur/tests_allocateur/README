@@ -1,0 +1,18 @@
+Squelette de code pour l'allocateur memoire.
+@2011 Gregory Mounie
+
+Les entêtes des fonctions sont dans ../mem.h (dans le répertoire parent)
+Le code du squelette est dans ../mem.c  (dans le répertoire parent)
+La batterie de test est dans les fichiers test_*
+
+NB: La batterie de test est fournie pour vous montrer que lorsque l'on
+dispose de tests, on écrit plus vite un code de bien meilleur qualité.
+
+
+Pour compiler et tester votre code de votre alloc.c
+     make test
+
+Pour juste compiler:
+     make all
+
+
